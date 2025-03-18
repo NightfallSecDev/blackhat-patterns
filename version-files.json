@@ -1,0 +1,5 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(\\.[a-f0-9]{8,}\\.(?:css|js|jpg|png|svg|gif|woff2?|eot|ttf|otf|json|html|map)|\\?v=\\d+(\\.\\d+)*|\\?rev=\\d+(\\.\\d+)*|\\?_=[0-9]+|\\-[a-f0-9]{8,}(\\.min)?\\.(css|js|jpg|png|svg|gif|woff2?|eot|ttf|otf|json|html|map)|\\bver=\\d+(\\.\\d+)*|\\bv=\\d+(\\.\\d+)*|\\bversion=\\d+(\\.\\d+)*|\\bhash=[a-f0-9]{8,})"
+  }
+  

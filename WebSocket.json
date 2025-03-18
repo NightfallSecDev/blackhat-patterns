@@ -1,0 +1,5 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(new\\s+WebSocket\\(|WebSocket\\.send\\(|WebSocket\\.onmessage|WebSocket\\.onopen|WebSocket\\.onclose|WebSocket\\.onerror|ws://|wss://|XMLHttpRequest\\(|xhr\\.open\\(|xhr\\.send\\(|fetch\\(|fetch\\s*\\(|\\$.ajax\\(|\\$.get\\(|\\$.post\\(|\\$.getJSON\\(|axios\\(|axios\\.get\\(|axios\\.post\\(|axios\\.put\\(|axios\\.delete\\(|fetch\\s*\\(\\s*[\"'`]https?:\\/\\/|\\.responseText|\\.responseXML|\\.readyState|\\.status|\\.onreadystatechange)"
+  }
+  

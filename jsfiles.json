@@ -1,0 +1,5 @@
+{
+    "flags": "-iE",
+    "pattern": "\\b[a-zA-Z0-9/_-]+\\.(?:js|mjs|cjs|es6|jsx|ts|tsx|json|map|min\\.js|module\\.js|bundle\\.js)(\\?[a-zA-Z0-9=_&-]*)?"
+  }
+  

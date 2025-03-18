@@ -1,0 +1,5 @@
+{
+    "flags": "-HnriE",
+    "pattern": "exec\\(|system\\(|passthru\\(|popen\\(|shell_exec\\(|proc_open\\(|pcntl_exec\\("
+}
+

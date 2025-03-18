@@ -1,0 +1,5 @@
+{
+    "flags": "-iE",
+    "pattern": "(https?:\\/\\/)?(?:cdn\\.|cdnjs\\.cloudflare\\.com|ajax\\.googleapis\\.com|cdn\\.jsdelivr\\.net|stackpath\\.bootstrapcdn\\.com|code\\.jquery\\.com|cdn\\.fontawesome\\.com|fonts\\.googleapis\\.com|cdnjs\\.com|cdn\\.rawgit\\.com|unpkg\\.com|cdn\\.polyfill\\.io|maxcdn\\.bootstrapcdn\\.com|static\\.example\\.com)\\/(.*?\\.(?:js|css|woff|woff2|ttf|eot|svg|otf|png|jpg|jpeg|gif|ico|webp|map))"
+  }
+  

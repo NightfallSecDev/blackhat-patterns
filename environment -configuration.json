@@ -1,0 +1,5 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(^|/|\\.)((env|\\.env|\\.env\\.[a-zA-Z0-9_-]+|\\.npmrc|config\\.json|\\.config|\\.config\\.[a-zA-Z0-9_-]+|settings\\.json|application\\.properties|local\\.settings\\.json|\\.secrets\\.json|secrets\\.json|\\.gitignore|\\.gitconfig|\\.bashrc|\\.bash_profile|\\.zshrc|Dockerfile|docker-compose\\.yml|Makefile|\\.npmignore|yarn\\.lock|composer\\.lock|requirements\\.txt|Pipfile|Pipfile\\.lock|package-lock\\.json|Gemfile|Gemfile\\.lock|pubspec\\.yaml|CMakeLists\\.txt|Jenkinsfile|gradle\\.properties|webpack\\.config\\.js|tsconfig\\.json|karma\\.conf\\.js|protractor\\.conf\\.js|rollup\\.config\\.js|eslint\\.js|prettierrc|babel\\.config\\.js|vite\\.config\\.js|next\\.config\\.js|nuxt\\.config\\.js|vue\\.config\\.js|angular\\.json|firebase\\.json|config\\.js|config\\.ts|server\\.config\\.js|appsettings\\.json|web\\.config|nuget\\.config|pom\\.xml|build\\.gradle|settings\\.gradle|manifest\\.json|Info\\.plist|Podfile|Podfile\\.lock|android\\.properties|secrets\\.gradle))"
+  }
+  
