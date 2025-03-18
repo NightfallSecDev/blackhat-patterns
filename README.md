@@ -52,14 +52,14 @@ This repository contains a collection of JSON files used for security testing, v
 | `xpath.json` | XPath injection patterns. |
 | `xss.json` | Cross-Site Scripting (XSS) patterns. |
 | `xxe.json` | XML External Entity (XXE) patterns. |
-
----
+```
 
 ## 🛠️ **How to Install and Use with `gf`**
 Follow these steps to add these patterns to `gf`:
 
-### ✅ **1. Clone the repository**  
-```sh
+### ✅ **1. Clone the repository**
+
+```bash
 git clone https://github.com/NightfallSecDev/blackhat-patterns.git
 ```
 
